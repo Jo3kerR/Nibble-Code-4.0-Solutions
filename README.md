@@ -1,2 +1,3 @@
-# Nibble-Code-4.0-Solutions
-Solutions of Nibble Code 4.0
+# Nibble Code 4.0 Solutions
+
+Contest Link : https://codeforces.com/gym/325469
